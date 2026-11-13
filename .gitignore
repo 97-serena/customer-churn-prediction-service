@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local environments
+.conda/
+
+# local exports of the shared text notebooks
+notebooks/*.ipynb
